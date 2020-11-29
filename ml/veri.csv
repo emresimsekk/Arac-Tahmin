@@ -1,0 +1,566 @@
+model,yil,km,renk,fiyat,il
+Volkswagen Passat 1.4 TSi BlueMotion Comfortline,2017,63.000 ,Siyah,255.000 TL,Zonguldak
+Hyundai i20 1.2 MPI Style,2015,45.000 ,Beyaz,127.950 TL,Zonguldak
+Volkswagen Passat 2.0 Comfortline,2005,219.000 ,Gri,149.900 TL,Ankara
+Volkswagen Passat 1.6 Comfortline,2006,169.000 ,Siyah,156.000 TL,Ankara
+Volkswagen Golf 1.6 Pacific,2004,246.000 ,Gri,79.900 TL,Sakarya
+BMW 5 Serisi 520d Standart,2009,155.000 ,Siyah,177.500 TL,Sakarya
+Fiat Egea 1.3 Multijet Easy Plus,2020,0 ,Beyaz,176.500 TL,Zonguldak
+Hyundai i20 1.4 CRDi Style,2015,52.000 ,Füme,153.500 TL,Zonguldak
+Renault Clio 1.5 dCi Icon,2012,147.000 ,Kırmızı,118.900 TL,Konya
+Fiat Egea 1.6 E-Torq Urban Plus,2019,2.000 ,Beyaz,186.900 TL,Konya
+Mercedes - Benz E 250 AMG,2014,62.000 ,Beyaz,495.000 TL,Trabzon
+Renault Clio 1.5 BlueDCI Joy,2019,29.000 ,Beyaz,153.500 TL,Trabzon
+Skoda Octavia 1.6 TDI Style CR,2016,90.000 ,Mavi,238.500 TL,Trabzon
+Alfa Romeo Giulietta 1.6 JTD Progression,2020,0 ,Beyaz,305.000 TL,Trabzon
+Volkswagen Passat 1.6 TDi BlueMotion Trendline,2017,110.000 ,Gri,247.500 TL,İstanbul
+Ford Focus 1.6 TDCi Trend,2012,170.000 ,Beyaz,132.000 TL,Hatay
+Hyundai Accent Era 1.4 Team,2007,216.000 ,Siyah,68.750 TL,Hatay
+Renault Megane 1.5 dCi Touch Plus,2015,134.000 ,Gri,149.800 TL,İstanbul
+Toyota Auris 1.4 D-4D Comfort Extra,2012,82.000 ,Beyaz,151.000 TL,İstanbul
+Ford Fiesta 1.4 TDCi Titanium X,2011,165.000 ,Gri,105.000 TL,İstanbul
+Skoda Octavia 1.4 TSI Elegance,2010,235.750 ,Siyah,125.000 TL,Adıyaman
+Hyundai Accent Era 1.4 Team,2009,132.000 ,Gri,93.750 TL,Adıyaman
+Volkswagen VW CC 1.4 TSi,2012,170.000 ,Beyaz,195.000 TL,Eskişehir
+Fiat Egea 1.3 Multijet Easy,2017,127.500 ,Beyaz,124.750 TL,Eskişehir
+Peugeot 406 2.0 SV,1998,130.000 ,Beyaz,46.500 TL,Konya
+Mercedes - Benz E 200 Kompressor Avantgarde,1997,329.000 ,Siyah,98.500 TL,Konya
+Volkswagen Passat 1.9 TDi,1998,307.000 ,Mavi,69.500 TL,Bursa
+Volkswagen Jetta 1.6 TDi Comfortline,2013,240.000 ,Füme,152.500 TL,Bursa
+Renault Fluence 1.5 dCi Privilege,2011,94.000 ,Gri,146.950 TL,İstanbul
+Hyundai i20 1.4 CRDi Jump,2013,122.000 ,Beyaz,96.950 TL,İstanbul
+Toyota Corolla 1.4 D-4D Advance,2013,135.000 ,Gri,149.950 TL,İstanbul
+Audi A6 Sedan 2.0 Quattro,2017,199.000 ,Siyah,689.000 TL,Şanlıurfa
+Peugeot 301 1.6 HDi Active,2016,158.000 ,Beyaz,112.000 TL,Şanlıurfa
+Volkswagen Passat 1.6 TDi BlueMotion Impression,2017,91.000 ,Beyaz,299.000 TL,Şanlıurfa
+Volkswagen Jetta 1.4 TSi BlueMotion Highline,2015,88.000 ,Beyaz,239.750 TL,Niğde
+Opel Astra 1.3 CDTI Sport,2013,68.000 ,Beyaz,172.750 TL,Niğde
+Audi A4 Sedan 2.0 TDI Dynamic,2017,60.000 ,Siyah,499.750 TL,İstanbul
+Nissan Micra 1.2 Street,2015,16.000 ,Gri,138.750 TL,İstanbul
+Volkswagen Passat Variant 1.6 TDi BlueMotion Comfortline,2014,159.000 ,Bej,254.500 TL,Ankara
+Mercedes - Benz E 250 CDI Premium,2013,225.000 ,Siyah,"474.500 TL",Ankara
+Peugeot 301 1.6 BlueHDI Active,2018,96.000 ,Füme,128.000 TL,Muğla
+Fiat Punto 1.4 Easy S&S,2013,71.000 ,Beyaz,117.000 TL,Muğla
+Ford Focus 1.6 Ti-VCT Trend X,2013,104.000 ,Kırmızı,135.000 TL,Muğla
+Volkswagen Polo 1.4 TDi Trendline,2015,99.400 ,Beyaz,129.000 TL,Muğla
+Renault Clio 0.9 TCe Joy,2019,4.800 ,Beyaz,134.750 TL,Manisa
+Nissan Micra 1.2 Match,2017,24.000 ,Beyaz,"162.500 TL",Manisa
+Fiat Punto 1.4 Lounge S&S,2015,54.300 ,Beyaz,"120.000 TL",Manisa
+Renault Megane 1.6 Dynamique,2004,209.650 ,beyaz,93.000 TL,Konya
+Peugeot 301 1.6 HDi Allure,2017,87.000 ,Gri,141.500 TL,İzmir
+Dacia Sandero 1.5 dCi Stepway,2017,95.000 ,Gri,142.000 TL,İzmir
+Skoda Octavia 1.4 TSI Elegance,2010,235.750 ,Siyah,125.000 TL,Adıyaman
+Hyundai Accent Era 1.4 Team,2009,132.000 ,Gri,93.750 TL,Adıyaman
+Volkswagen VW CC 1.4 TSi,2012,170.000 ,Beyaz,195.000 TL,Eskişehir
+Fiat Egea 1.3 Multijet Easy,2017,127.500 ,Beyaz,124.750 TL,Eskişehir
+Peugeot 406 2.0 SV,1998,130.000 ,Beyaz,46.500 TL,Konya
+Mercedes - Benz E 200 Kompressor Avantgarde,1997,329.000 ,Siyah,98.500 TL,Konya
+Volkswagen Passat 1.9 TDi,1998,307.000 ,Mavi,69.500 TL,Bursa
+Volkswagen Jetta 1.6 TDi Comfortline,2013,240.000 ,Füme,152.500 TL,Bursa
+Renault Fluence 1.5 dCi Privilege,2011,94.000 ,Gri,146.950 TL,İstanbul
+Hyundai i20 1.4 CRDi Jump,2013,122.000 ,Beyaz,96.950 TL,İstanbul
+Toyota Corolla 1.4 D-4D Advance,2013,135.000 ,Gri,149.950 TL,İstanbul
+Audi A6 Sedan 2.0 Quattro,2017,199.000 ,Siyah,689.000 TL,Şanlıurfa
+Peugeot 301 1.6 HDi Active,2016,158.000 ,Beyaz,112.000 TL,Şanlıurfa
+Volkswagen Passat 1.6 TDi BlueMotion Impression,2017,91.000 ,Beyaz,299.000 TL,Şanlıurfa
+Volkswagen Jetta 1.4 TSi BlueMotion Highline,2015,88.000 ,Beyaz,239.750 TL,Niğde
+Opel Astra 1.3 CDTI Sport,2013,68.000 ,Beyaz,172.750 TL,Niğde
+Audi A4 Sedan 2.0 TDI Dynamic,2017,60.000 ,Siyah,499.750 TL,İstanbul
+Nissan Micra 1.2 Street,2015,16.000 ,Gri,138.750 TL,İstanbul
+Volkswagen Passat Variant 1.6 TDi BlueMotion Comfortline,2014,159.000 ,Bej,254.500 TL,Ankara
+Mercedes - Benz E 250 CDI Premium,2013,225.000 ,Siyah,"474.500 TL",Ankara
+Peugeot 301 1.6 BlueHDI Active,2018,96.000 ,Füme,128.000 TL,Muğla
+Fiat Punto 1.4 Easy S&S,2013,71.000 ,Beyaz,117.000 TL,Muğla
+Ford Focus 1.6 Ti-VCT Trend X,2013,104.000 ,Kırmızı,135.000 TL,Muğla
+Volkswagen Polo 1.4 TDi Trendline,2015,99.400 ,Beyaz,129.000 TL,Muğla
+Renault Clio 0.9 TCe Joy,2019,4.800 ,Beyaz,134.750 TL,Manisa
+Nissan Micra 1.2 Match,2017,24.000 ,Beyaz,"162.500 TL",Manisa
+Fiat Punto 1.4 Lounge S&S,2015,54.300 ,Beyaz,"120.000 TL",Manisa
+Renault Megane 1.6 Dynamique,2004,209.650 ,beyaz,93.000 TL,Konya
+Peugeot 301 1.6 HDi Allure,2017,87.000 ,Gri,141.500 TL,İzmir
+Dacia Sandero 1.5 dCi Stepway,2017,95.000 ,Gri,142.000 TL,İzmir
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,55.000 ,Mavi,"379.000 TL",Konya
+Honda Jazz 1.4 LS,2007,178.000 ,Siyah,99.750 TL,Denizli
+Renault Clio 1.0 TCe Touch,2020,15 ,Turuncu,197.500 TL,Amasya
+Toyota Corolla 1.4 D-4D Elegant,2012,140.900 ,Gri,137.500 TL,Uşak
+Mercedes - Benz C 180 AMG 9G-Tronic,2017,36.000 ,Siyah,490.000 TL,Giresun
+BMW 3 Serisi 320i ED Luxury Line Plus,2015,109.000 ,Siyah,387.500 TL,Bursa
+BMW 3 Serisi 320i First Edition Sport Line,2019,16.000 ,Siyah,582.000 TL,Bursa
+BMW 5 Serisi 520i Premium,2013,131.000 ,Füme,337.500 TL,Bursa
+Ford Fiesta 1.4 Titanium,2011,86.000 ,Siyah,101.750 TL,Bursa
+Opel Astra 1.6 Edition,2015,77.000 ,Beyaz,150.000 TL,Samsun
+Mercedes - Benz S 320 L,1997,435.000 ,Gri,145.750 TL,Aydın
+Renault Megane 1.6 Joy,2014,101.000 ,Beyaz,142.500 TL,Ankara
+Seat Ibiza 1.2 TSI Sport Tourer Reference,2012,128.000 ,Beyaz,134.000 TL,Ankara
+Toyota Corolla 1.33 Comfort,2011,94.000 ,Siyah,131.900 TL,Balıkesir
+Ford Fiesta 1.4 TDCi Comfort,2004,193.000 ,Gri,71.900 TL,Balıkesir
+Opel Astra 1.3 CDTI Edition,2013,241.055 ,Gri,123.500 TL,Antalya
+Opel Astra 1.6 Enjoy,2008,144.000 ,Siyah,"93.500 TL",Çanakkale
+Opel Insignia 1.4 T Edition Elegance,2013,90.000 ,Siyah,167.000 TL,Çanakkale
+Volkswagen Jetta 1.6 TDi Trendline,2012,127.750 ,Siyah,163.500 TL,Osmaniye
+Volkswagen Jetta 1.6 TDi Comfortline,2012,152.000 ,Beyaz,168.500 TL,Osmaniye
+Renault Fluence 1.5 dCi Business,2011,232.000 ,Gri,71.900 TL,Osmaniye
+Hyundai Accent Era 1.4 Team,2011,166.000 ,Beyaz,88.500 TL,Muğla
+Fiat Linea 1.4 Fire Pop,2017,47.532 ,Gri,112.000 TL,Muğla
+Renault Clio 1.2 Authentique,2007,144.000 ,Kahverengi,85.000 TL,Muğla
+Chevrolet Lacetti 1.4 SE,2005,228.000 ,Gri,57.500 TL,Muğla
+Volkswagen VW CC 1.4 TSi,2013,127.000 ,Beyaz,230.500 TL,Muğla
+Volkswagen Polo 1.2 TSi Comfortline,2017,63.000 ,Kırmızı,"167.500 TL",Muğla
+Toyota Auris 1.33 Comfort,2012,114.000 ,Beyaz,125.750 TL,Muğla
+Hyundai Accent Blue 1.6 CRDI Biz,2014,149.000 ,Beyaz,137.500 TL,Muğla
+Dacia Sandero 1.5 dCi Stepway,2015,90.000 ,Kırmızı,129.500 TL,Muğla
+Renault Megane 1.5 Blue DCI Touch,2019,0 ,Beyaz,256.500 TL,Bolu
+Volkswagen Passat 1.6 TDi BlueMotion,2020,1.350 ,Siyah,508.000 TL,Bolu
+Renault Fluence 1.6 Extreme,2011,260.000 ,Gri,88.500 TL,İstanbul
+Volkswagen Passat 1.6 TDi BlueMotion Trendline,2014,157.000 ,Siyah,209.000 TL,İstanbul
+Renault Clio 1.5 dCi Joy,2013,169.000 ,Siyah,111.900 TL,İstanbul
+Renault Fluence 1.5 dCi Business,2012,245.000 ,Gri,75.000 TL,Sakarya
+Hyundai Accent Era 1.4 Team,2011,185.000 ,Gri,75.000 TL,Sakarya
+Seat Ibiza 1.4 Sport Tourer Copa,2012,238.000 ,Füme,75.000 TL,Sakarya
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2013,138.000 ,Beyaz,"208.750 TL",Uşak
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2016,173.000 ,Gri,272.000 TL,Şanlıurfa
+Volkswagen Jetta 1.6 TDi Highline,2014,148.000 ,Gri,212.000 TL,Şanlıurfa
+Renault Clio 1.5 dCi SportTourer Touch,2016,139.400 ,Beyaz,137.000 TL,İzmir
+Fiat Linea 1.4 Fire Pop,2017,145.978 ,Beyaz,93.900 TL,Kayseri
+Fiat Linea 1.3 Multijet Pop,2013,184.000 ,Gri,85.900 TL,Kayseri
+Renault Megane 1.5 dCi Authentique,2011,182.707 ,Gri,98.900 TL,Kayseri
+Hyundai i30 1.6 CRDi Elite Plus,2017,64.000 ,Bordo,253.500 TL,İstanbul
+BMW 3 Serisi 316i M Sport,2015,94.300 ,Lacivert,338.000 TL,İstanbul
+Volkswagen Polo 1.4 TDi Comfortline,2017,113.000 ,Gri,"184.000 TL",Mersin
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2015,198.000 ,Siyah,237.000 TL,Şanlıurfa
+Opel Astra 1.6 GLS,1998,214.500 ,Siyah,55.000 TL,Bilecik
+Mercedes - Benz C 200 Elegance,1995,441.000 ,Yeşil,88.000 TL,Bilecik
+Volkswagen Polo 1.4 TDi Comfortline,2016,60.000 ,Beyaz,165.950 TL,İstanbul
+Volkswagen Jetta 1.6 TDi Comfortline,2011,278.000 ,Füme,113.500 TL,Van
+Ford Fusion 1.4 TDCi Comfort,2011,215.000 ,Gri,84.900 TL,İstanbul
+Skoda Octavia 1.6 TDI Elegance CR,2014,194.860 ,Beyaz,179.000 TL,İzmir
+Fiat Egea 1.3 Multijet Urban,2017,105.000 ,Beyaz,146.000 TL,Ordu
+Ford Focus 1.6 TDCi Trend,2012,193.000 ,Gri,129.900 TL,Konya
+Renault Fluence 1.5 dCi Business,2011,281.000 ,Gri,97.500 TL,Konya
+BMW 3 Serisi 320i,2009,162.000 ,Siyah,191.500 TL,Mardin
+BMW 5 Serisi 520d Comfort,2010,256.000 ,Siyah,"236.500 TL",Mardin
+Volkswagen Golf 1.4 TSi Trendline,2012,110.000 ,Beyaz,126.500 TL,Mardin
+Fiat Linea 1.3 Multijet Actual Plus,2013,210.000 ,Beyaz,76.500 TL,Aydın
+Seat Leon 1.6 TDI Style,2015,167.000 ,Beyaz,182.000 TL,İstanbul
+Citroen C4 Picasso 1.6 HDi SX PK,2008,216.000 ,Kahverengi,"99.500 TL",İstanbul
+Toyota Corolla 1.4 D-4D Active,2014,98.000 ,Beyaz,167.000 TL,Manisa
+Volkswagen Passat Variant 1.6 TDi BlueMotion Comfortline,2015,110.154 ,Beyaz,272.000 TL,İstanbul
+Audi A4 Sedan 2.0 TDI Design,2017,110.000 ,Siyah,462.000 TL,İstanbul
+Volkswagen Passat 1.6 TDi BlueMotion R Line,2018,68.339 ,Siyah,432.000 TL,İstanbul
+Opel Corsa 1.4 Twinport Enjoy,2014,151.270 ,Beyaz,127.000 TL,İstanbul
+Volkswagen Jetta 1.6 TDi Comfortline,2015,104.000 ,Siyah,224.000 TL,İstanbul
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2018,57.554 ,Gri,322.000 TL,İstanbul
+Renault Symbol 1.2 Joy,2015,55.000 ,Beyaz,102.000 TL,Osmaniye
+Audi A6 Sedan 2.0 TDI,2011,329.000 ,Siyah,225.000 TL,Mersin
+Toyota Corolla 1.6 Flame X Pack,2020,0 ,Füme,283.500 TL,İstanbul
+Ford Focus 1.6 TDCi Trend X,2014,140.000 ,beyaz,151.750 TL,Gaziantep
+Peugeot 407 1.6 HDi Executive Black,2008,311.000 ,Siyah,88.500 TL,Van
+BMW 3 Serisi 320i ED 40th Year Edition,2015,59.500 ,Beyaz,435.000 TL,Bursa
+Fiat Linea 1.3 Multijet Actual Plus,2013,152.000 ,Beyaz,81.800 TL,Muğla
+Fiat Egea 1.3 Multijet Easy,2020,0 ,Beyaz,163.750 TL,Muğla
+Volkswagen Jetta 1.6 TDi Highline,2013,141.000 ,Siyah,168.000 TL,İstanbul
+Toyota Corolla 1.4 D-4D Comfort Extra,2011,235.000 ,Beyaz,121.750 TL,İstanbul
+Renault Symbol 1.5 dCi Joy,2017,75.000 ,Beyaz,113.950 TL,İstanbul
+Hyundai Elantra 1.6 MPI Style Plus,2020,0 ,Beyaz,232.000 TL,Bursa
+Volkswagen Jetta 1.6 TDi Trendline,2013,187.000 ,Beyaz,164.900 TL,Kahramanmaraş
+Dacia Sandero 1.5 dCi Ambiance,2014,97.000 ,Beyaz,103.000 TL,Adıyaman
+Fiat Egea 1.3 Multijet Easy,2016,196.000 ,Beyaz,105.000 TL,Van
+Ford Focus 1.5 TDCi Trend X,2016,138.100 ,Beyaz,191.000 TL,Bursa
+Fiat Linea 1.3 Multijet Dynamic,2008,154.000 ,Gri,79.500 TL,Manisa
+Fiat Punto 1.3 Multijet Lounge,2013,99.200 ,Bordo,112.500 TL,Bursa
+BMW 2 Serisi 218i Luxury Line,2015,49.000 ,Beyaz,334.000 TL,İstanbul
+MINI Cooper 1.6 Roadster,2012,84.000 ,Siyah,"227.000 TL",İstanbul
+Opel Astra 1.4 T Sport,2014,80.000 ,Siyah,168.500 TL,İstanbul
+Opel Astra 1.6 Essentia Konfor,2013,133.000 ,Beyaz,126.500 TL,Mersin
+Volkswagen Passat 1.8 T Highline,1999,319.000 ,Kırmızı,69.999 TL,Denizli
+Renault Clio 1.2 Joy Plus,2019,26.000 ,Füme,133.500 TL,İstanbul
+BMW 3 Serisi 320i ED Standart,2013,110.000 ,Beyaz,299.500 TL,İstanbul
+Kia Cerato 1.6 CRDi Concept Plus,2017,70.000 ,Beyaz,212.750 TL,İstanbul
+Opel Vectra 2.0 GLS,1998,305.000 ,Gri,45.500 TL,Konya
+Lada Samara 1.5,1990,130.000 ,Bordo,22.500 TL,Konya
+Mazda 626 2.0 GLX,1998,290.000 ,Yeşil,52.000 TL,Konya
+Hyundai i20 1.2 D-CVVT Sense,2014,23.000 ,Beyaz,116.000 TL,Konya
+Mercedes - Benz 200 E,1994,438.000 ,Siyah,70.000 TL,Denizli
+Renault Megane 1.5 dCi Dynamique,2004,228.000 ,Yeşil,70.750 TL,Denizli
+Hyundai i20 1.4 CRDi Jump,2016,145.000 ,Beyaz,"119.850 TL",İstanbul
+Renault Symbol 1.5 dCi Authentique,2004,240.000 ,Beyaz,49.900 TL,Antalya
+Renault Megane 1.5 dCi Touch,2017,80.000 ,Siyah,210.500 TL,İstanbul
+Citroen C3 1.2 PureTech Feel Bold,2020,0 ,Beyaz,207.500 TL,İstanbul
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2018,55.000 ,Beyaz,382.000 TL,İstanbul
+Ford Focus 1.6 TDCi Trend,2012,124.500 ,Gri,127.500 TL,Rize
+Ford Focus 1.6 TDCi Titanium,2010,150.000 ,Beyaz,137.500 TL,Osmaniye
+Mercedes - Benz E 350 CDI Premium,2011,169.000 ,Siyah,459.900 TL,Adana
+Audi A4 Sedan 2.0 TDI Design,2016,125.000 ,Beyaz,489.900 TL,Adana
+Skoda SuperB 1.6 TDI Premium,2020,0 ,Beyaz,449.900 TL,Adana
+Volkswagen Polo 1.2 TDi Trendline,2012,139.000 ,Beyaz,125.750 TL,Denizli
+Ford Fusion 1.4 TDCi Trend,2006,294.000 ,Gri,55.000 TL,Konya
+Toyota Auris 1.6 Comfort Extra,2012,117.000 ,Siyah,118.500 TL,Ordu
+Volkswagen Golf 1.4 TSi Midline,2008,213.000 ,Kırmızı,99.500 TL,Ordu
+Mercedes - Benz 190 E 2.0,1989,125.000 ,Gri,67.000 TL,Antalya
+Hyundai i20 1.2 MPI Jump,2018,58.000 ,Beyaz,130.000 TL,Antalya
+Toyota Corolla 1.33 Life,2016,58.000 ,Beyaz,141.750 TL,Aydın
+Toyota Auris 1.4 D-4D Advance Skypack,2013,125.000 ,Beyaz,157.000 TL,Aydın
+Fiat Egea 1.3 Multijet Easy,2017,160.000 ,Beyaz,131.900 TL,Adana
+Ford Focus 1.6 TDCi Titanium X,2012,227.000 ,Kahverengi,126.750 TL,Adana
+Chevrolet Cruze 1.6 LT Plus,2012,299.000 ,Siyah,79.900 TL,Adana
+Fiat Egea 1.6 Multijet Urban Plus,2020,2.450 ,Beyaz,221.000 TL,Hatay
+Audi A6 Sedan 1.8 T,1999,374.000 ,Mavi,73.500 TL,Sakarya
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,61.000 ,Beyaz,397.500 TL,Niğde
+Volkswagen Polo 1.4 Chrome Edition,2013,85.000 ,Siyah,154.000 TL,Karabük
+Citroen C-Elysee 1.6 HDi Feel,2017,58.000 ,Füme,135.000 TL,Karabük
+Renault Fluence 1.5 dCi Touch Plus,2016,151.580 ,Gri,142.000 TL,İstanbul
+Fiat Egea 1.3 Multijet Easy,2020,0 ,Gri,172.000 TL,Samsun
+Honda S2000 2.0 Vtec,2006,132.000 ,Kırmızı,420.000 TL,Trabzon
+Renault Symbol 1.2 Authentique Edition,2012,242.000 ,Gri,62.000 TL,Konya
+Fiat Linea 1.3 Multijet Pop,2015,139.880 ,Beyaz,100.000 TL,Konya
+Toyota Corolla 1.4 D-4D Comfort,2009,233.000 ,Gri,"106.750 TL",Konya
+Skoda Octavia 1.6 Ambiente,2004,223.000 ,Gri,77.000 TL,Konya
+Opel Astra 1.6 Enjoy,2005,244.000 ,Gri,"87.999 TL",Konya
+Hyundai Accent Blue 1.4 D-CVVT Mode Plus,2016,36.000 ,Beyaz,144.750 TL,Adıyaman
+Honda Civic 1.6 i-VTEC Eco Premium,2012,245.000 ,Beyaz,142.500 TL,Batman
+Dacia Sandero 1.2 Ambiance,2013,166.000 ,Bordo,91.000 TL,İstanbul
+Tofaş Doğan SL,1994,153.000 ,Yeşil,21.500 TL,İstanbul
+Toyota Auris 1.4 D-4D Comfort Extra,2011,110.000 ,Gri,151.000 TL,Çankırı
+Mercedes - Benz E 200 AMG,2016,70.500 ,Füme,659.750 TL,İstanbul
+Hyundai Sonata 2.0 GLS,2005,126.000 ,Lacivert,65.800 TL,Osmaniye
+Hyundai Getz 1.5 CRDi VGT Start,2010,179.650 ,Mavi,59.500 TL,Hatay
+Renault Symbol 1.5 dCi Joy,2016,93.400 ,Beyaz,114.000 TL,Hatay
+Renault Clio 1.4 Alize,2006,173.000 ,Gri,65.500 TL,Edirne
+Volkswagen Golf 1.6 TDi BlueMotion,2014,220.000 ,Beyaz,156.000 TL,Konya
+Renault Megane 1.5 dCi Touch,2017,49.000 ,Beyaz,217.900 TL,İstanbul
+Peugeot 208 1.6 e-HDI Active,2016,47.000 ,Siyah,155.900 TL,Bursa
+Renault Laguna 2.0 RXT,2001,217.000 ,Yeşil,52.500 TL,Mardin
+Renault Megane 1.5 dCi Authentique,2006,324.000 ,Gri,59.900 TL,Mardin
+Hyundai Getz 1.5 VGT HY KLM,2006,249.000 ,Gri,51.000 TL,Hatay
+Ford Fiesta 1.4 TDCi Trend,2012,164.300 ,Beyaz,84.750 TL,Hatay
+Opel Astra 1.6 Edition,2015,63.000 ,Kahverengi,151.500 TL,Samsun
+Fiat Linea 1.3 Multijet Active Plus,2010,281.000 ,Gri,60.750 TL,Mardin
+Hyundai i20 1.4 MPI Jump,2016,78.000 ,Beyaz,139.900 TL,İstanbul
+Peugeot 301 1.6 HDi Allure,2016,79.500 ,Beyaz,121.000 TL,Antalya
+BMW 1 Serisi 116i Comfort,2013,139.000 ,Beyaz,245.000 TL,Amasya
+Renault Symbol 1.5 dCi Joy,2017,20.000 ,Beyaz,128.000 TL,Rize
+Volkswagen Passat 1.5 TSi Business,2020,13.450 ,Beyaz,351.000 TL,İstanbul
+Citroen C-Elysee 1.6 HDi Feel,2017,104.128 ,Beyaz,129.000 TL,Antalya
+Renault Clio 1.5 dCi Joy,2016,138.500 ,Siyah,124.500 TL,Antalya
+Fiat Egea 1.3 Multijet Easy,2020,0 ,Kırmızı,174.900 TL,Muğla
+Honda Civic 1.5 VTEC Turbo Elegance,2020,0 ,Füme,290.750 TL,İstanbul
+Renault Megane 1.5 dCi Touch Plus,2016,52.000 ,Gri,"203.750 TL",İstanbul
+Honda Civic 1.5 i-VTEC Sport,2018,7.500 ,Gri,"295.500 TL",İstanbul
+Toyota Corolla 1.8 Hybrid Dream,2019,14.000 ,Beyaz,244.750 TL,İstanbul
+Honda Civic 1.5 VTEC Turbo Elegance,2020,1.500 ,Beyaz,296.750 TL,İstanbul
+Mercedes - Benz C 200 d BlueTEC Exclusive,2018,29.000 ,Siyah,600.000 TL,Denizli
+Volkswagen Golf 1.6 TDi BlueMotion Comfortline,2014,79.000 ,Beyaz,243.850 TL,Osmaniye
+Mercedes - Benz C 200 Kompressor Elegance,2002,264.000 ,Yeşil,147.500 TL,Aydın
+Opel Astra 1.3 CDTI Enjoy Elegance,2008,231.000 ,Siyah,91.500 TL,Aydın
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2015,227.000 ,Gri,"249.000 TL",Gaziantep
+Renault Clio 1.2 Joy,2018,3.000 ,Beyaz,138.000 TL,İzmir
+Chevrolet Spark 1.0 SE,2011,170.000 ,Yeşil,65.000 TL,İzmir
+Renault Fluence 1.5 dCi Touch,2016,133.000 ,beyaz,138.900 TL,Gaziantep
+Ford Focus 1.6 TDCi Trend X,2015,252.000 ,Beyaz,152.000 TL,Gaziantep
+Kia Rio 1.4 CRDi Fancy,2013,124.000 ,Siyah,122.000 TL,Aydın
+Ford Fiesta 1.5 TDCi Trend,2015,89.000 ,Beyaz,128.500 TL,Aydın
+Hyundai i30 1.6 CRDi Style,2008,210.750 ,Kırmızı,97.750 TL,Malatya
+Opel Insignia 1.6 T Cosmo,2009,204.000 ,Siyah,107.500 TL,Eskişehir
+Peugeot 301 1.6 BlueHDI Active,2018,78.000 ,Gri,"135.750 TL",Adıyaman
+BMW 3 Serisi 318i Standart,2005,265.000 ,Siyah,133.000 TL,Bilecik
+Renault Fluence 1.5 dCi Icon,2014,97.000 ,Bordo,147.500 TL,Sakarya
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2015,148.000 ,Gri,282.500 TL,Eskişehir
+Ford Focus 1.6 TDCi Ghia,2007,226.000 ,Gri,73.500 TL,Balıkesir
+Kia Ceed 1.6 CRDi Concept Plus,2016,125.000 ,Beyaz,195.000 TL,Batman
+Volkswagen Golf 1.6 TDi Comfortline,2010,300.000 ,Siyah,122.000 TL,Batman
+BMW 5 Serisi 520i M Sport,2014,99.000 ,Beyaz,442.000 TL,Muğla
+Opel Corsa 1.4 Enjoy,2004,245.000 ,Gri,67.900 TL,Yozgat
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2016,58.500 ,Gri,351.000 TL,Aydın
+Hyundai Accent Blue 1.4 D-CVVT Mode Plus,2016,41.000 ,Beyaz,146.800 TL,Osmaniye
+Audi A3 Sportback 1.2 TFSI Attraction,2012,102.000 ,Beyaz,159.000 TL,İstanbul
+Citroen C-Elysee 1.6 HDi Attraction,2016,137.000 ,Beyaz,"116.000 TL",İstanbul
+Dacia Sandero 1.5 dCi Stepway,2016,132.000 ,Füme,123.000 TL,Tokat
+Volkswagen Passat 1.6 TDi BlueMotion Trendline,2013,143.000 ,Siyah,203.000 TL,İstanbul
+Audi A3 Sedan 35 TFSI Design,2019,23.500 ,Siyah,368.000 TL,İzmir
+Volkswagen Passat 1.4 TSi BlueMotion Comfortline,2015,90.000 ,Gri,285.000 TL,Bursa
+Opel Corsa 1.3 CDTI Enjoy,2012,251.000 ,Gri,80.500 TL,İzmir
+Toyota Corolla 1.4 D-4D Touch,2016,165.000 ,Beyaz,165.000 TL,Hatay
+Volkswagen Polo 1.4 TDi Comfortline,2016,156.000 ,Beyaz,149.750 TL,İzmir
+Peugeot 308 1.2 PureTech Allure,2014,162.500 ,Kahverengi,146.750 TL,İstanbul
+Renault Clio 1.5 dCi Joy,2016,108.000 ,Beyaz,126.500 TL,İstanbul
+Toyota Yaris 1.33 Style Red,2015,55.000 ,Kırmızı,158.000 TL,Aydın
+Fiat Linea 1.4 Fire Pop,2017,25.750 ,Beyaz,112.500 TL,Muğla
+Audi A4 Sedan 2.0 TDI Quattro,2013,183.000 ,Siyah,295.000 TL,Kahramanmaraş
+Hyundai i20 1.4 MPI Style,2020,6 ,Beyaz,203.900 TL,Aydın
+Renault Clio 1.5 dCi Joy,2016,118.000 ,Beyaz,119.500 TL,İzmir
+Renault Symbol 1.5 dCi Joy,2015,79.000 ,Beyaz,103.000 TL,İzmir
+Opel Meriva 1.3 CDTI EcoFlex Cosmo,2011,155.000 ,Gri,104.500 TL,İzmir
+Volkswagen Bora 1.9 TDi Comfortline,2000,260.000 ,Gri,62.000 TL,Rize
+Volkswagen Golf 1.6 GTD,1983,466.000 ,Gri,27.800 TL,Bursa
+Fiat Albea 1.2 Dynamic,2006,10.000 ,Bordo,38.750 TL,Aydın
+Skoda SuperB 1.6 TDI Active,2017,107.000 ,Siyah,257.500 TL,İstanbul
+Ford Focus 1.6 Titanium,2011,190.000 ,Siyah,116.500 TL,İstanbul
+Hyundai i20 1.4 CRDi Jump,2013,170.000 ,Beyaz,97.500 TL,İstanbul
+Fiat Punto 1.4 Easy S&S,2012,220.000 ,Kırmızı,60.500 TL,İstanbul
+Peugeot 206 1.4 XT,2003,134.000 ,Kırmızı,67.750 TL,İstanbul
+Citroen C-Elysee 1.6 BlueHDi Live,2017,155.000 ,Beyaz,112.500 TL,Bursa
+Volkswagen Passat 1.6 TDi BlueMotion Trendline,2017,87.000 ,Beyaz,275.000 TL,Bursa
+Citroen C-Elysee 1.6 HDi Attraction,2013,142.000 ,Beyaz,96.000 TL,Antalya
+Hyundai i30 1.6 CRDi Mode,2011,225.000 ,Gri,119.000 TL,Erzincan
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2015,141.000 ,Füme,"239.000 TL",Erzincan
+Peugeot 206 1.4 X-Line,2004,183.000 ,Kırmızı,"67.750 TL",İstanbul
+Hyundai Getz 1.3 GLS,2005,149.000 ,Gri,68.750 TL,Balıkesir
+BMW 3 Serisi 320d Techno Plus,2014,315.000 ,Beyaz,278.000 TL,İzmir
+BMW 5 Serisi 520i Prestige,2017,50.750 ,Lacivert,599.750 TL,İstanbul
+Fiat Linea 1.3 Multijet Easy,2013,218.000 ,Beyaz,88.000 TL,Gaziantep
+Opel Astra 1.6 CDTI Enjoy Active,2015,78.000 ,Siyah,127.500 TL,İstanbul
+Volkswagen Passat 1.6 FSi Comfortline,2007,238.500 ,Siyah,"93.500 TL",İstanbul
+Fiat Stilo 1.6 Dynamic,2005,233.000 ,Beyaz,"68.000 TL",Aydın
+Honda Civic 1.6 i-VTEC Elegance,2009,146.000 ,Füme,114.850 TL,İstanbul
+Volkswagen Golf 1.5 TSi Highline,2019,0 ,Lacivert,345.900 TL,Bolu
+Skoda Octavia 1.6 TDI Elegance CR,2014,110.000 ,Beyaz,204.000 TL,İstanbul
+Opel Insignia 1.4 T Edition Elegance,2012,150.000 ,Beyaz,151.500 TL,Erzincan
+Renault Clio 1.5 dCi Joy,2015,199.700 ,Beyaz,"108.500 TL",Aydın
+Skoda Octavia 1.6 TDI Elegance CR,2014,110.000 ,Beyaz,203.000 TL,İstanbul
+Opel Vectra 2.0 CD,2000,302.000 ,Gri,62.750 TL,Gaziantep
+Volkswagen Golf 1.6 TDi BlueMotion Midline Plus,2015,180.000 ,Beyaz,153.750 TL,Muğla
+Audi A5 Sportback 2.0 TDI,2012,178.000 ,Beyaz,295.000 TL,İzmir
+Peugeot 508 1.6 e-HDi Allure,2011,217.000 ,Füme,"137.500 TL",İzmir
+Ford B-Max 1.6 Titanium,2013,109.000 ,Beyaz,148.500 TL,İzmir
+Volkswagen Passat 2.0 TDi BlueMotion Comfortline,2014,193.000 ,Siyah,197.000 TL,İzmir
+Renault Clio 1.4 Expression,2005,287.000 ,Gri,"61.000 TL",Şanlıurfa
+Toyota Corolla 1.4 D-4D Terra,2006,279.000 ,Gri,79.750 TL,Kayseri
+Volkswagen Passat 1.4 TSi Trendline,2010,172.000 ,Gri,"155.750 TL",Tokat
+Toyota Corolla 1.4 D-4D Advance,2018,80.000 ,Beyaz,"216.000 TL",Afyonkarahisar
+BMW 3 Serisi 320d Edition Comfort,2012,159.000 ,Siyah,262.000 TL,Aydın
+BMW 5 Serisi 520i Executive M Sport,2016,44.000 ,Siyah,545.000 TL,Muğla
+Ford Focus 1.5 TDCi Trend X,2017,91.633 ,Beyaz,198.500 TL,Malatya
+BMW 5 Serisi 520d Exclusive,2011,250.000 ,Siyah,320.000 TL,Aydın
+Skoda SuperB 1.6 TDI Prestige,2019,4.500 ,Gri,435.000 TL,Diyarbakır
+Opel Astra 1.6 CDTI Design,2017,97.500 ,Siyah,179.500 TL,Diyarbakır
+Opel Corsa 1.4 Twinport Enjoy,2011,78.000 ,Beyaz,112.000 TL,Kütahya
+Ford Focus 1.6 TDCi Collection,2008,197.000 ,Füme,91.850 TL,Osmaniye
+Nissan Micra 1.2 Puzzle,2012,107.000 ,Beyaz,"123.900 TL",Samsun
+Hyundai Accent Blue 1.6 CRDI Mode,2017,100.000 ,Beyaz,154.500 TL,Antalya
+Seat Ibiza 1.4 Style,2013,55.000 ,Kırmızı,134.500 TL,Balıkesir
+Renault Clio 1.3 TCe Touch,2020,120 ,Beyaz,215.000 TL,Aydın
+Fiat Linea 1.3 Multijet Active Plus,2014,169.000 ,Beyaz,91.750 TL,Ankara
+Renault Modus 1.6 Authentique,2006,82.000 ,Kahverengi,98.000 TL,Ankara
+Fiat Egea 1.3 Multijet Easy,2016,130.000 ,Beyaz,119.950 TL,İstanbul
+Opel Astra 1.6 Edition Plus,2017,54.000 ,Siyah,154.800 TL,Osmaniye
+Opel Vectra 1.6 Elegance,2004,224.000 ,Kahverengi,"85.750 TL",Tokat
+Hyundai i20 1.0 T-GDI Style,2020,0 ,Mavi,225.000 TL,Bursa
+Hyundai i20 1.4 CVVT Jump,2013,125.000 ,Gri,133.000 TL,Tokat
+Peugeot 208 1.2 VTi Access,2013,96.000 ,Beyaz,127.000 TL,Tokat
+Opel Insignia 1.6 CDTI Sport,2017,126.000 ,Füme,257.750 TL,Muğla
+Citroen C4 1.6 BlueHDi Confort,2016,72.500 ,Beyaz,171.750 TL,İstanbul
+Volkswagen Golf 1.6 TDi BlueMotion Highline,2014,87.000 ,Siyah,214.750 TL,İstanbul
+Mercedes - Benz C 200 BlueTEC Fascination,2015,145.150 ,Siyah,475.750 TL,İstanbul
+Volkswagen Polo 1.0 Trendline,2018,90.000 ,Beyaz,156.950 TL,İstanbul
+Toyota Auris 1.4 D-4D Elegant,2008,156.000 ,Gri,112.500 TL,Balıkesir
+BMW 5 Serisi 525tds Standart,1998,256.000 ,Gri,92.500 TL,Ankara
+Fiat 500 Ailesi 500C 1.2 Gucci,2012,98.400 ,Siyah,159.000 TL,İstanbul
+Opel Astra 1.6 Enjoy,2004,198.000 ,Mavi,68.500 TL,Malatya
+Fiat 500 Ailesi 1.2 Gucci,2012,98.000 ,Siyah,159.000 TL,İstanbul
+Renault Clio 1.5 dCi Icon,2016,198.000 ,Beyaz,135.900 TL,İstanbul
+BMW 5 Serisi 525d xDrive Comfort,2012,256.000 ,Beyaz,"364.000 TL",Ankara
+Kia Picanto 1.25 EX,2013,29.000 ,Gri,104.900 TL,İstanbul
+Renault Fluence 1.5 dCi Touch,2014,135.110 ,Beyaz,122.500 TL,İstanbul
+MINI Cooper 1.5 Pepper,2014,70.000 ,Beyaz,239.000 TL,İstanbul
+Mercedes - Benz C 180 Kompressor Avantgarde,2005,227.000 ,Gri,152.750 TL,Denizli
+Renault Clio 1.2 Icon,2014,37.000 ,Beyaz,131.800 TL,Osmaniye
+Ford Fiesta 1.6 Trend,2013,78.000 ,Beyaz,147.000 TL,Tokat
+Fiat Egea 1.4 Fire Urban Plus,2019,37.000 ,Beyaz,142.500 TL,Aydın
+Mercedes - Benz CLA 200 AMG,2019,15.000 ,Gri,575.000 TL,İstanbul
+Chevrolet Evanda 2.0 CDX,2004,115.000 ,Gri,88.500 TL,İstanbul
+Fiat Egea 1.3 Multijet Easy,2016,111.000 ,Beyaz,"116.000 TL",İstanbul
+Volkswagen Passat 1.9 TDi Comfortline,2003,354.000 ,Yeşil,79.750 TL,Kayseri
+Toyota Corolla 1.6 Advance,2016,112.000 ,Beyaz,172.000 TL,Osmaniye
+Renault Megane 1.6 Alize,2003,137.000 ,Şampanya,77.000 TL,Aydın
+Audi A3 Sedan 30 TFSI Sport,2020,0 ,Siyah,376.000 TL,Bursa
+Toyota Corolla 1.8 Hybrid Flame X-Pack,2020,0 ,Beyaz,309.750 TL,İstanbul
+Hyundai Accent Era 1.5 CRDi-VGT Team,2011,160.000 ,Gri,79.950 TL,İstanbul
+Volkswagen Polo 1.0 Trendline,2017,119.000 ,Beyaz,127.500 TL,Edirne
+Audi A3 Sportback 1.6 TDI Ambiente,2012,190.000 ,Siyah,145.000 TL,İstanbul
+Volkswagen Jetta 1.2 TSi Trendline,2015,85.000 ,Beyaz,178.000 TL,Kütahya
+Audi A3 Sportback 1.4 TFSI Ambition,2010,231.000 ,Siyah,136.000 TL,Antalya
+Fiat Egea 1.4 Fire Urban Plus,2020,2 ,Beyaz,154.900 TL,Aydın
+Hyundai i20 1.4 CRDi Jump,2013,130.000 ,Beyaz,105.900 TL,Samsun
+Hyundai i10 1.0 D-CVVT Style,2014,114.000 ,Beyaz,117.000 TL,Bursa
+Volkswagen Polo 1.4 Basicline,2004,90.000 ,Kırmızı,90.750 TL,Muğla
+Volkswagen Polo 1.6 TDi Comfortline,2018,34.000 ,Beyaz,220.950 TL,İstanbul
+Renault Latitude 1.5 dCi Expression,2013,199.000 ,Beyaz,105.000 TL,İstanbul
+Opel Insignia 1.6 CDTI Grand Sport Excellence,2017,92.000 ,Gri,182.000 TL,İstanbul
+Renault Clio 1.5 dCi Touch,2017,73.000 ,Beyaz,163.750 TL,Muğla
+Audi A3 Sportback 1.6 TDI Ambiente,2013,107.000 ,Füme,245.750 TL,Uşak
+Renault Megane 1.2 TCe Touch,2019,23.000 ,Gri,212.950 TL,İstanbul
+Fiat Linea 1.4 Fire Pop,2014,162.000 ,Gri,87.500 TL,Adıyaman
+Volkswagen Passat 2.0 TDi Highline,2006,282.100 ,Kahverengi,139.750 TL,İstanbul
+Volkswagen Golf 1.4 TSi Comfortline,2016,128.000 ,Beyaz,177.500 TL,Eskişehir
+Volkswagen Passat 1.4 TSi BlueMotion Comfortline,2015,95.000 ,Gri,248.950 TL,İstanbul
+Mercedes - Benz E 250 CDI Edition,2015,106.000 ,Füme,655.000 TL,Bursa
+Renault Megane 1.6 Privilege,2006,164.000 ,Bej,103.750 TL,Muğla
+Skoda Roomster 1.6 Comfort,2008,175.000 ,Gri,101.000 TL,Rize
+Hyundai Accent Era 1.4 Team,2011,165.000 ,Siyah,83.500 TL,Çanakkale
+Toyota Corolla 1.33 Life,2013,156.000 ,Beyaz,131.750 TL,Muğla
+Fiat Egea 1.6 Multijet Comfort,2017,117.000 ,Beyaz,146.750 TL,Muğla
+Volkswagen Passat 1.6 TDi BlueMotion Impression,2018,55.700 ,Siyah,312.900 TL,Yalova
+Opel Insignia 1.6 CDTI Grand Sport Excellence,2020,500 ,Beyaz,"399.000 TL",Bursa
+Ford Focus 1.5 TDCi Titanium,2015,44.000 ,Beyaz,218.000 TL,Manisa
+Citroen C5 1.6 e-HDi Confort,2013,153.000 ,Beyaz,148.000 TL,Muğla
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,83.000 ,Gri,319.000 TL,Bursa
+Mercedes - Benz E 200 Avantgarde,1997,346.000 ,Siyah,94.750 TL,Konya
+Renault Fluence 1.5 dCi Icon,2016,112.250 ,Beyaz,166.250 TL,Kastamonu
+Hyundai Accent Blue 1.6 CRDI Mode,2014,94.000 ,Beyaz,132.000 TL,Rize
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,92.000 ,Gri,319.000 TL,Bursa
+Peugeot 301 1.6 HDi Allure,2016,65.000 ,Yeşil,107.500 TL,Hatay
+Volkswagen Polo 1.4 TDi Comfortline,2016,42.500 ,Füme,190.500 TL,Aydın
+Opel Insignia 1.6 CDTI Grand Sport Enjoy,2020,14.000 ,Beyaz,329.000 TL,Bursa
+Hyundai Accent Blue 1.6 CRDI Mode Plus,2016,49.900 ,Beyaz,141.000 TL,Kocaeli
+Volkswagen Jetta 1.6 TDi Comfortline,2012,125.000 ,beyaz,175.000 TL,Samsun
+Fiat Punto Grande 1.3 Multijet,2011,185.000 ,Gri,87.500 TL,Aydın
+Renault Fluence 1.5 dCi Touch,2016,127.000 ,Siyah,146.490 TL,Hatay
+Hyundai Accent Blue 1.6 CRDI Mode Plus,2016,130.678 ,Beyaz,134.990 TL,Hatay
+DS Automobiles DS4 1.6 e-HDi D-Sport,2014,90.000 ,Beyaz,182.500 TL,Hatay
+Hyundai Accent Blue 1.6 CRDI Mode,2015,97.000 ,Beyaz,150.900 TL,Antalya
+Hyundai i20 1.4 CRDi Style,2017,136.000 ,Beyaz,134.500 TL,İstanbul
+Renault Symbol 1.5 dCi Authentique,2012,152.500 ,beyaz,87.000 TL,Antalya
+Hyundai i20 1.4 CRDi Jump,2012,213.000 ,Beyaz,96.000 TL,İstanbul
+Honda Civic 1.6 i-VTEC Eco Executive,2018,41.000 ,Beyaz,254.000 TL,Zonguldak
+BMW 5 Serisi 530i xDrive Executive M,2017,104.000 ,Gri,860.000 TL,İstanbul
+Ford Focus 1.6 TDCi Trend,2009,180.000 ,Gri,84.000 TL,Mersin
+Honda Civic 1.5 i-VTEC Sport,2017,9.000 ,Kırmızı,276.900 TL,Zonguldak
+Fiat Punto 1.3 Multijet Lounge,2012,356.000 ,beyaz,87.500 TL,İstanbul
+BMW 3 Serisi 320i ED 40th Year Edition,2015,115.000 ,Beyaz,355.000 TL,Konya
+Honda Accord 2.2 CTDi,2005,348.000 ,Siyah,77.000 TL,Konya
+Skoda Fabia 1.4 TSI RS,2011,200.000 ,Beyaz,128.500 TL,İstanbul
+Opel Astra 1.4 T Sport,2019,12.000 ,beyaz,190.000 TL,Antalya
+Kia Ceed 1.6 CRDi Concept Plus SW,2012,155.000 ,Beyaz,140.000 TL,Ankara
+Renault Megane 1.5 dCi Authentique,2008,240 ,Füme,79.000 TL,Şanlıurfa
+Renault Megane 1.6 Dynamique,2005,205.000 ,Gri,61.500 TL,Şanlıurfa
+Peugeot 301 1.6 HDi Active,2012,236.000 ,Gri,91.500 TL,Ankara
+Renault Megane 1.6 Dynamique,2006,207.000 ,Gri,85.900 TL,Kocaeli
+Toyota Yaris 1.0 Terra,2004,193.000 ,Gri,59.900 TL,Kocaeli
+Opel Meriva 1.6 Enjoy,2005,205.000 ,Siyah,83.900 TL,Kocaeli
+Fiat Linea 1.3 Multijet Pop,2015,157.500 ,Beyaz,97.500 TL,Kocaeli
+Fiat Linea 1.3 Multijet Pop,2016,134.000 ,Beyaz,102.900 TL,Kocaeli
+Toyota Corolla 1.6 Terra,2005,297.000 ,Siyah,72.750 TL,Gaziantep
+Porsche Panamera Diesel,2014,260.000 ,Siyah,900.000 TL,İstanbul
+Audi A6 Sedan 2.0 TDI,2015,189.000 ,Siyah,525.000 TL,İstanbul
+Opel Astra 1.4 T Edition Plus,2020,11.300 ,Beyaz,193.250 TL,Ankara
+Ford Focus 1.0 GTDi Trend X,2012,109.000 ,Beyaz,132.000 TL,Yozgat
+Audi A4 Sedan 1.9 TDI,1995,330.000 ,Lacivert,58.500 TL,Samsun
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,141.000 ,Gri,297.500 TL,Diyarbakır
+Volkswagen Passat 1.6 TDi BlueMotion R Line,2020,9.000 ,Mavi,528.000 TL,Kocaeli
+Honda Civic 1.6 i-VTEC ECO Elegance,2016,82.000 ,Füme,191.000 TL,Manisa
+Toyota Corolla 1.4 D-4D Touch,2017,95.000 ,Beyaz,195.500 TL,İstanbul
+Toyota Corolla 1.4 D-4D Touch,2017,95.000 ,Beyaz,195.500 TL,İstanbul
+Audi A4 Sedan 2.0 TDI,2006,290.000 ,beyaz,119.000 TL,İstanbul
+Honda Civic 1.6 i-VTEC ECO Elegance,2018,43.000 ,Mavi,241.500 TL,Manisa
+Renault Megane 1.5 dCi Icon,2016,156.000 ,Gri,198.900 TL,İstanbul
+BMW 5 Serisi 525d Standart,1999,368.000 ,Şampanya,106.900 TL,İstanbul
+Fiat Egea 1.4 Fire Easy Plus,2018,25.000 ,Beyaz,119.750 TL,Edirne
+Nissan Micra 1.2 Street,2015,68.000 ,Beyaz,134.500 TL,İstanbul
+Skoda SuperB 1.6 TDI Style,2015,165.678 ,Gri,229.000 TL,Gaziantep
+Peugeot 208 1.4 HDi Active,2014,174.000 ,Kırmızı,94.000 TL,Adana
+Peugeot 308 1.6 e-HDi Sportium,2013,94.000 ,Beyaz,132.900 TL,Antalya
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2017,128.000 ,Beyaz,299.500 TL,Diyarbakır
+Opel Corsa 1.3 CDTI Cosmo,2004,270.000 ,Beyaz,43.900 TL,Antalya
+BMW 5 Serisi 520i Executive,2016,94.000 ,Siyah,452.500 TL,İstanbul
+BMW 3 Serisi 316i Modern Line,2013,146.000 ,Beyaz,278.000 TL,Ankara
+Hyundai i20 1.4 MPI Style Design,2017,32.000 ,Mavi,185.000 TL,Adana
+Hyundai i30 1.6 CRDi Elite,2014,190.000 ,Beyaz,160.500 TL,İzmir
+Volkswagen Polo 1.6,1998,265.000 ,Mavi,46.900 TL,İzmir
+Peugeot 308 1.6 HDi Comfort,2008,228.000 ,Beyaz,86.900 TL,İzmir
+Renault Fluence 1.5 dCi Icon,2015,162.000 ,Gri,136.950 TL,İstanbul
+Volkswagen Golf 1.2 TSi Midline Plus,2016,50.000 ,Beyaz,225.000 TL,İstanbul
+Dacia Lodgy 1.5 dCi Laureate,2020,17.000 ,Beyaz,183.900 TL,İstanbul
+BMW 5 Serisi 520d xDrive Prestige,2017,55.800 ,Gri,875.000 TL,Uşak
+Ford Focus 1.6 TDCi Trend,2008,347.000 ,Gri,79.500 TL,Konya
+Ford Fiesta 1.4 TDCi Comfort,2004,281.000 ,Gri,58.750 TL,Konya
+Opel Vectra 2.0 GLS,1998,350.000 ,Beyaz,42.000 TL,Konya
+Ford Fiesta 1.4 TDCi Comfort,2007,219.500 ,Beyaz,64.000 TL,Aydın
+Ford Fiesta 1.5 TDCi Trend,2013,113.000 ,beyaz,107.500 TL,İstanbul
+BMW 3 Serisi 320i First Edition M Sport,2020,0 ,Siyah,699.000 TL,Antalya
+Mercedes - Benz A 200 BlueEFFICIENCY AMG Sport,2017,48.000 ,Kırmızı,343.500 TL,Antalya
+Toyota Corolla 1.4 D-4D Touch,2018,50.000 ,Beyaz,199.000 TL,Diyarbakır
+Audi A5 Sportback 2.0 TDI Quattro,2012,198.000 ,Lacivert,345.750 TL,Samsun
+Ford Fiesta 1.25 Trend X,2015,133.000 ,Beyaz,119.999 TL,Çorum
+Ford Fiesta 1.5 TDCi Trend,2014,79.000 ,Beyaz,128.900 TL,İstanbul
+BMW 3 Serisi 316i Standart,1994,184.783 ,Beyaz,107.500 TL,İstanbul
+Toyota Corolla 1.33 Life,2016,39.000 ,Beyaz,143.500 TL,Konya
+Volkswagen Passat 1.6 TDi BlueMotion Business,2020,1.000 ,Siyah,437.000 TL,İstanbul
+Hyundai Accent 1.5 CRDi Admire,2005,180.000 ,Bej,22.000 TL,İzmir
+BMW 7 Serisi 730i Long Executive Lounge,2016,96.045 ,Gri,900.000 TL,İstanbul
+BMW 3 Serisi 320i First Edition M Sport,2020,3.317 ,Beyaz,790.000 TL,İstanbul
+Audi S S5 3.0 TFSI Quattro,2013,47.000 ,Füme,735.000 TL,İstanbul
+Fiat Punto Grande 1.3 Multijet Dynamic,2008,257.000 ,Gri,58.850 TL,İstanbul
+Volkswagen Polo 1.4 Trendline,2006,171.000 ,Gri,94.850 TL,İstanbul
+Renault Clio 1.2 Touch,2018,25.000 ,Beyaz,147.000 TL,Konya
+Opel Astra 1.3 CDTI Enjoy,2008,140.000 ,beyaz,103.500 TL,Kocaeli
+Peugeot 206 2.0 GTI,2000,252.000 ,beyaz,35.000 TL,Çankırı
+BMW 3 Serisi 316i Technology,2013,130.000 ,Beyaz,289.000 TL,Denizli
+Renault Megane 1.5 dCi Dynamique,2006,250.000 ,Gri,87.500 TL,Antalya
+Ford Focus 1.5 TDCi Trend X,2016,64.800 ,Gri,148.500 TL,İstanbul
+Volkswagen Golf 1.6 TDi BlueMotion Comfortline,2011,161.000 ,Beyaz,160.000 TL,Antalya
+Fiat Egea 1.4 Fire Easy,2019,40.000 ,Beyaz,118.950 TL,İstanbul
+Citroen C4 1.6 BlueHDi Confort,2016,101.000 ,Beyaz,159.950 TL,İstanbul
+Mercedes - Benz E 250 CGI AMG,2013,106.000 ,Beyaz,550.000 TL,Kayseri
+Mercedes - Benz E 180 AMG,2015,119.000 ,Beyaz,515.000 TL,Kayseri
+Fiat Tempra 1.6 SX,1992,75.000 ,Gri,30.500 TL,Ankara
+Audi A3 Sedan 1.6 TDI Ambition,2015,78.318 ,Beyaz,317.000 TL,Gaziantep
+BMW 5 Serisi 525d xDrive Executive M Sport,2015,159.500 ,Beyaz,513.000 TL,Gaziantep
+Ford Mondeo 2.0 Ghia,2000,301.000 ,Beyaz,38.500 TL,İzmir
+Renault Symbol 1.5 dCi Joy,2017,104.000 ,Beyaz,126.000 TL,Antalya
+Fiat Egea 1.3 Multijet Easy,2018,68.000 ,Beyaz,142.000 TL,Antalya
+Hyundai i20 1.4 MPI Style,2017,70.000 ,Mavi,149.950 TL,Muğla
+Ford Focus 1.6 Ti-VCT Titanium,2014,147.000 ,Kahverengi,149.950 TL,Muğla
+Renault Symbol 1.5 dCi Joy,2015,185.000 ,Beyaz,91.500 TL,İzmir
+Volkswagen Passat 1.5 TSi Business,2020,0 ,Siyah,374.900 TL,Antalya
+Renault Megane 1.5 dCi Touch,2017,62.000 ,Beyaz,193.500 TL,Bursa
+Opel Astra 1.6 GL,1997,199.000 ,beyaz,50.000 TL,İstanbul
+Renault Clio 1.5 dCi Touch,2017,65.470 ,Beyaz,162.000 TL,İstanbul
+Toyota Corolla 1.4 D-4D Touch,2015,125.516 ,Beyaz,172.500 TL,Hatay
+Toyota Corolla 1.4 D-4D Touch,2016,132.546 ,Beyaz,176.500 TL,Hatay
+Audi A6 Sedan 2.0 TDI,2011,186.500 ,Siyah,278.000 TL,Hatay
+Volkswagen Jetta 1.6 TDi Trendline,2013,131.400 ,Gri,172.500 TL,Hatay
+Fiat Linea 1.3 Multijet Emotion Plus,2011,218.950 ,Gri,81.900 TL,Ankara
+Ford Focus 1.6 TDCi Titanium,2010,180.000 ,Beyaz,117.500 TL,Ankara
+Toyota Corolla 1.4 D-4D Touch,2018,63.000 ,Beyaz,202.500 TL,İstanbul
+Toyota Corolla 1.6 Life,2018,42.000 ,Beyaz,191.000 TL,Kocaeli
+Renault Clio 1.5 dCi Touch,2018,58.605 ,Beyaz,168.750 TL,Kocaeli
+Honda Civic 1.6 i-VTEC Premium,2015,101 ,Beyaz,178.000 TL,Ankara
+Mercedes - Benz B 150 Prestige,2007,135.000 ,Siyah,139.750 TL,Balıkesir
+Fiat Egea 1.4 Fire Easy,2019,24.000 ,beyaz,134.000 TL,Bursa
+Honda Civic 1.6 i-VTEC Elegance,2013,244.000 ,Beyaz,153.000 TL,Mersin
+Fiat Egea 1.3 Multijet Easy,2020,10 ,Füme,167.500 TL,Manisa
+Ford Focus 1.6 TDCi Titanium,2010,189.500 ,Füme,128.250 TL,Yozgat
+Audi A4 Sedan 2.0 TDI,2010,250.000 ,Siyah,167.900 TL,İzmir
+Fiat Egea 1.6 Multijet Comfort,2017,126.000 ,Gri,136.000 TL,İstanbul
+Audi A6 Sedan 2.0 TDI,2011,410.000 ,Siyah,182.000 TL,Niğde
+Tofaş Şahin 1.4 ie,2000,87.126 ,Gri,40.000 TL,İzmir
+Renault Symbol 1.5 dCi Joy,2015,188.000 ,Beyaz,92.000 TL,Konya
+Renault Fluence 1.5 dCi Icon,2014,108.000 ,beyaz,152.000 TL,Antalya
+Fiat Egea 1.6 Multijet Comfort,2016,169.000 ,Beyaz,136.000 TL,İstanbul
+Citroen C-Elysee 1.6 BlueHDi Live,2018,67.000 ,Beyaz,132.000 TL,Kocaeli
+Seat Leon 1.6 TDI Style,2017,122.200 ,Beyaz,187.750 TL,İstanbul
+Renault R 12 Toros,1996,87.000 ,Beyaz,46.500 TL,Manisa
+Dacia Logan 1.5 dCi Black Line,2010,516.000 ,beyaz,53.600 TL,İstanbul
+Volkswagen Passat 1.6 TDi BlueMotion Comfortline,2016,55.000 ,Siyah,315.500 TL,Karaman
+Skoda SuperB 1.6 TDI Prestige,2015,59.000 ,Gri,298.000 TL,Trabzon
+Peugeot 308 1.6 HDi Premium,2008,133.000 ,Siyah,107.000 TL,Tekirdağ
+Toyota Corolla 1.4 D-4D Elegant,2012,264.000 ,Gri,117.000 TL,Şanlıurfa
+Seat Leon 1.6 TDI Style,2017,103.350 ,Beyaz,184.750 TL,İstanbul
+Seat Leon 1.6 TDI Style,2017,125.750 ,Beyaz,189.750 TL,İstanbul
+Opel Insignia 1.4 T Edition Elegance,2014,110.800 ,Gri,165.000 TL,İstanbul
+Renault Clio 1.4 RTA,1999,199.200 ,Sarı,45.000 TL,Kırklareli
+Audi A3 Sedan 30 TDI Dynamic,2016,85.000 ,Siyah,265.750 TL,İstanbul
+Skoda SuperB 1.6 TDI Active,2017,141.900 ,Gri,237.750 TL,İstanbul
+Seat Leon 1.6 TDI Style,2017,109.550 ,Beyaz,187.750 TL,İstanbul
+Skoda Octavia 1.6 TDI Style,2017,64.900 ,Beyaz,"264.900 TL",Ankara
+Volkswagen Passat 1.6 TDi BlueMotion Impression,2019,45.900 ,Beyaz,"362.000 TL",Ankara
+Fiat 500 Ailesi 500L 1.3 Mjet PopStar,2013,66.000 ,Gri,138.000 TL,Çorum
+Ford Focus 1.6 Ghia,1999,178.250 ,beyaz,62.500 TL,İzmir
+Renault Clio 1.4,2001,320.000 ,Bordo,45.000 TL,Yozgat
+Seat Leon 1.6 TDI Style,2015,122.000 ,Beyaz,214.750 TL,İstanbul
+Fiat Egea 1.3 Multijet Easy,2015,178.000 ,Beyaz,125.000 TL,Yozgat
+Fiat Linea 1.3 Multijet Pop,2016,166.000 ,Beyaz,110.000 TL,Yozgat
+BMW 3 Serisi 320i ED Sport Line,2016,32.000 ,Beyaz,409.900 TL,Kilis
+Ford Focus 1.6 Ghia,2000,355.000 ,Yeşil,65.000 TL,Yozgat
+Opel Astra 1.6 CD,2000,298.000 ,Gri,68.000 TL,Yozgat
+Hyundai Accent Blue 1.6 CRDI Mode Plus,2014,215.000 ,Beyaz,125.000 TL,Yozgat
